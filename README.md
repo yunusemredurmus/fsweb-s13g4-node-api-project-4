@@ -8,7 +8,7 @@ Uygulamanızı Heroku'ya dağıtmaktan çekinmeyin, ancak bunun artık ücretsiz
 
 ### Görev 1: Proje Kurulumu
 
-Canvas'taki ödev sayfanız, bu projeyi göndermek için talimatlar içeriyor. Bulamadıysanız, Okul Personeli ile iletişime geçin.
+Forklayın, clone'layın ve bolca commitleyin.
 
 ### Görev 2: MVP
 
